@@ -1,0 +1,23 @@
+{
+  "name": "school-proj-npm-rdm-no",
+  "version": "1.0.11",
+  "description": "get a random number",
+  "main": "random-number.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnebladFelix/npm-rdm-no.git"
+  },
+  "keywords": [
+    "random",
+    "number"
+  ],
+  "author": "Felix Anneblad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnebladFelix/npm-rdm-no/issues"
+  },
+  "homepage": "https://github.com/AnnebladFelix/npm-rdm-no#readme"
+}
