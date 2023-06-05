@@ -7,12 +7,12 @@ NPM random number school project.
 Run "npm install school-proj-npm-rdm-no" to install your package.
 
 ## Then import it and use it!
-
 ```
-const { getRandomNumber } = require('school-proj-npm-rdm-no');
+const rdmNr = require("school-proj-npm-rdm-no");
+const lowest = 1;
+const highest = 10;
+const randomNum = rdmNr(lowest, highest);
 
-// min = min number
-// max = max number
-const randomNumber = getRandomNumber(min, max);
-console.log(randomNumber);
+console.log(randomNum); // Output: Random number between 1 and 10 (inclusive)
 ```
+You can use this function by providing the lowest and highest values as arguments.

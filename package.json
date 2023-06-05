@@ -1,6 +1,6 @@
 {
   "name": "school-proj-npm-rdm-no",
-  "version": "1.0.11",
+  "version": "2.0.0",
   "description": "get a random number",
   "main": "random-number.js",
   "scripts": {
